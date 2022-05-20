@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHostDemo", "ServiceHostDemo\ServiceHostDemo.csproj", "{C429C4D7-F496-4E13-B078-6EF8CC7C5E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.Quark.App", "..\Beisen.Quark.App\Beisen.Quark.App.csproj", "{D0E4C064-1EC2-4AE2-BCAB-75B593962100}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beisen.Quark.Tests", "..\Beisen.Quark.Tests\Beisen.Quark.Tests.csproj", "{8139876F-59AF-47B6-B10C-7EBCAA3CDD79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C429C4D7-F496-4E13-B078-6EF8CC7C5E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C429C4D7-F496-4E13-B078-6EF8CC7C5E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C429C4D7-F496-4E13-B078-6EF8CC7C5E95}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D0E4C064-1EC2-4AE2-BCAB-75B593962100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0E4C064-1EC2-4AE2-BCAB-75B593962100}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0E4C064-1EC2-4AE2-BCAB-75B593962100}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0E4C064-1EC2-4AE2-BCAB-75B593962100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8139876F-59AF-47B6-B10C-7EBCAA3CDD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8139876F-59AF-47B6-B10C-7EBCAA3CDD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8139876F-59AF-47B6-B10C-7EBCAA3CDD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8139876F-59AF-47B6-B10C-7EBCAA3CDD79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
